@@ -1,31 +1,31 @@
 # Lakshana Kolur
 
-Software Engineer & Researcher | MS in Computer Science @ **NYU Tandon**
+Data Engineer @ **Barclays** | MS in Computer Science @ **NYU**
 
 ---
 
-### 🚀 About Me
+### 🚀 Professional Summary
 
-I am a Software Engineer and Researcher with a deep passion for **IoT Security**, **Machine Learning**, and **DevOps**. I recently completed my Master of Science in Computer Science at the **New York University (NYU) Tandon School of Engineering**. My work focuses on building secure, scalable, and intelligent systems.
+I am a Data Engineer at **Barclays**, specializing in building robust data pipelines and scalable systems. With a strong background in **Data Science** and **Machine Learning**, I leverage advanced analytics to solve complex challenges. Previously, I gained valuable experience at **Credit Suisse**.
 
 ### 🛠️ Technical Proficiencies
 
-- **Specializations:** Network Security, IoT, Computer Vision, DevOps
-- **Languages:** Python, Java, Swift, R, C++, Shell
-- **Cloud & DevOps:** AWS (EC2, Auto-scaling), Docker, Container Orchestration
-- **Research:** Super-Resolution CNNs, Sentiment Analysis (RoBERTa), IoT VPN Security
+- **Domains:** Data Engineering, Data Science, Machine Learning
+- **Languages:** Python, Java, SQL, R, C++, Shell
+- **Tools & Platforms:** Spark, Hadoop, AWS, Docker, Kubernetes
+- **Previous Experience:** Software Engineering & Data Analysis @ Credit Suisse
 
 ### 🎓 Education
 
-- **New York University (NYU) Tandon School of Engineering**
-  - Master of Science in Computer Science (Class of 2023)
+- **New York University (NYU)**
+  - Master of Science in Computer Science
 - **PES University**
   - Bachelor of Technology in Computer Science and Engineering
 
 ### 📬 Connect with Me
 
 - [LinkedIn Profile](http://linkedin.com/in/lakshanakolur/)
-- [Academic Email](mailto:lk2719@nyu.edu)
+- [Email](mailto:lk2719@nyu.edu)
 
 ---
-*Building secure and intelligent systems for the future.*
+*Engineering data solutions for the financial world.*
